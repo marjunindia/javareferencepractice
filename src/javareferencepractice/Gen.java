@@ -9,7 +9,7 @@ public class Gen<T> {
 	}
 	
 	
-	public T getOb() {
+	public T getValue() {
 		return ob;
 	}
 
